@@ -1,0 +1,19 @@
+ul{
+    display: flex;
+    flex-flow:row wrap;
+    justify-content:space-around;
+}
+li{
+    display: flex;
+    flex-flow:row wrap;
+    color: tomato;
+    list-style: none;
+}
+button{
+    background-color: #f2f2f2;
+    color:green;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
